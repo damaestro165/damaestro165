@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adeniyiabayomi165/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dameastro)
-![](https://img.shields.io/github/followers/damaestro165.svg?style=social&label=Follow&maxAge=2592000)
+
 
 
 ### You're welcome :smiley:
